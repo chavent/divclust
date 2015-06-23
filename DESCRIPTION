@@ -1,0 +1,11 @@
+Package: divclust
+Type: Package
+Title: Divisive hierarchical clustering 
+Version: 0.3
+Date: 2015-06-22
+Author: Marc Fuentes, Marie Chavent 
+Maintainer: <marie.chavent@inria.fr>
+Description: This package provides monothetic hierarchical clustering for both quantitative, qualitative and mixed data.
+License: GPL-2 
+Imports: Rcpp (>= 0.11.0), intervals
+LinkingTo: Rcpp

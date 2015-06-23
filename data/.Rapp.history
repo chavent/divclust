@@ -1,0 +1,4 @@
+load("/Users/chavent/Documents/divclust/divclust/data/dogs.RData")
+dogs
+load("/Users/chavent/Documents/divclust/divclust/data/dogs.RData")
+dogs
